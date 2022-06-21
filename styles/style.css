@@ -12,3 +12,7 @@ body {
     border-radius: 15%;
     border: solid white;
 }
+
+#color {
+    height: 30px;
+}
